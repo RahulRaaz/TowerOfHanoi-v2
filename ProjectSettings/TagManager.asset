@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - AllDisks
+  - RodA
+  - RodB
+  - RodC
   layers:
   - Default
   - TransparentFX
@@ -12,9 +16,9 @@ TagManager:
   - Water
   - UI
   - Rods
-  - 
-  - 
-  - 
+  - RodA
+  - RodB
+  - RodC
   - 
   - 
   - 
